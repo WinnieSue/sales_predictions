@@ -43,4 +43,5 @@ The final model after preprocessing used the Random Forest Regressor to predict 
 
 **LIMITATIONS AND NEXT STEPS**
 
+Ibelieve there is still room for improvement on this model. after removing some features that are redundant and also removing features that could cause leakage, the model didn't improve. I need to invest more time to tune parameters and improve the mae.
 For further information: winnsusanne@gmail.com
